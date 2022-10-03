@@ -34,7 +34,7 @@ public class TokenTest {
 			System.out.println(result.toUpperCase());
 			
 		}
-
+ 
 	}
 
 
