@@ -22,5 +22,5 @@ public class NumberProcess {
 				return false;
 		}
 	}
-	
+ 	
 }
