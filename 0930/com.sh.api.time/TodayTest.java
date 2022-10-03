@@ -22,5 +22,5 @@ public class TodayTest {
 		System.out.print(now.format(DateTimeFormatter.ofPattern("오늘은 yyyy년 M월 d일 ")));
 		System.out.println(day + "요일입니다.");
 	}
-
+ 
 }
