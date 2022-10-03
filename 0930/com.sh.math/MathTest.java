@@ -19,5 +19,5 @@ public class MathTest {
 //		5. 324456.24497  => 올림해서 소수점둘째자리까지 표현
 		System.out.println((Math.ceil(324456.24497 * 100) / 100)); // 324456.25
 	}
-	
+	 
 }
