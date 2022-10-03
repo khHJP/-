@@ -27,4 +27,4 @@ public class CalcYourDays {
 		System.out.println("당신이 태어난 지 " + diff + "일 되었습니다.");
 	}
 
-}
+} 
